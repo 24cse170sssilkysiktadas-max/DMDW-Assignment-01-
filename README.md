@@ -20,7 +20,7 @@ This repository contains the solution for **DMDW Lab Assignment 01**. The assign
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/24cse170sssilkysiktadas-max/DMDW-Lab-Assignment-01.git
+   git clone https://github.com/24cse170sssilkysiktadas-max/DMDW-Assignment-01-.git
    ```
 
 2. Navigate to the project directory:
