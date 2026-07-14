@@ -25,7 +25,7 @@ This repository contains the solution for **DMDW Lab Assignment 01**. The assign
 
 2. Navigate to the project directory:
    ```bash
-   cd DMDW-Lab-Assignment-01
+   cd DMDW-Lab-Assignment-01-
    ```
 
 3. Open the Jupyter Notebook or run the Python scripts.
